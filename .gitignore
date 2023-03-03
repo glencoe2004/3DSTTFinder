@@ -1,0 +1,11 @@
+# CMake
+build
+CMakeLists.txt.user*
+
+# VS Code
+.vscode
+
+# VS
+.vs
+CMakeSettings.json
+out
